@@ -8,7 +8,7 @@
 <rect width="1200" height="320" rx="20" fill="url(#dots)"/>
 <path d="M880 -50L1170 100L990 400L700 245Z" fill="#3159a0" opacity=".13"/>
 <path d="M1000 -60L1250 65L1070 400L820 275Z" fill="#54b7ef" opacity=".07"/>
-<rect x="56" y="46" width="166" height="27" rx="13.5" fill="#1c3a63" stroke="#386195"/>
+<rect x="56" y="46" width="204" height="27" rx="13.5" fill="#1c3a63" stroke="#386195"/>
 <circle cx="72" cy="59.5" r="4" fill="#65e0ac"/>
 <text x="85" y="64" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#bfdbff">MOBILE ENGINEERING</text>
 <text x="55" y="137" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Ahmed Abd Elmohsen</text>
