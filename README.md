@@ -3,6 +3,10 @@
 
   <br />
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4A8BFF&center=true&vCenter=true&repeat=true&width=780&height=52&lines=Senior+Flutter+Engineer;Flutter+Tech+Lead;Mobile+Architecture+%26+Engineering;Building+Production-Grade+Mobile+Apps" alt="Animated titles: Senior Flutter Engineer, Flutter Tech Lead, Mobile Architecture" />
+
+  <br />
+
   **I architect, build, and scale production-grade Flutter applications.**
 
   [**Portfolio ↗**](https://ahmedabdelmohsen.vercel.app/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/ahmedmohamedabdelmohsen/) &nbsp;·&nbsp; [**Email ↗**](mailto:ahmedm.abdalmohsen@gmail.com)
