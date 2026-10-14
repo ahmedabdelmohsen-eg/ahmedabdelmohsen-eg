@@ -1,65 +1,73 @@
-# Ahmed Abd Elmohsen
+<div align="center">
+  <img src="assets/banner.svg" alt="Ahmed Abd Elmohsen — Senior Flutter Engineer and Tech Lead" width="100%" />
 
-**Senior Flutter Engineer & Tech Lead · Mobile Architecture**  
-Cairo, Egypt · Open to remote and international opportunities
+  <br />
 
-I design, build, and scale **production-grade Flutter applications**. My focus is on maintainable architecture, reliable delivery, application performance, and helping engineering teams ship confidently.
+  **I architect, build, and scale production-grade Flutter applications.**
 
-Over **6 years in mobile engineering**, I've contributed to **10+ production apps** in HR, education, transportation, travel, and marketplaces, with products serving **7,000+ users** collectively.
-
-[Portfolio](https://ahmedabdelmohsen.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmedmohamedabdelmohsen/) · [Email](mailto:ahmedm.abdalmohsen@gmail.com)
+  [**Portfolio ↗**](https://ahmedabdelmohsen.vercel.app/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/ahmedmohamedabdelmohsen/) &nbsp;·&nbsp; [**Email ↗**](mailto:ahmedm.abdalmohsen@gmail.com)
+</div>
 
 ---
 
-## Engineering impact
+### Engineering impact
 
-- **10+ production applications** delivered across multiple business domains.
-- **5 Flutter engineers** led and mentored through code reviews, architectural guidance, and engineering practices.
-- **Up to 30% fewer crashes** through performance and API optimization.
-- **80% faster deployments** through Azure DevOps CI/CD automation.
+| **10+** production apps | **5** engineers led | **30%** fewer crashes | **80%** faster deployments |
+| :---: | :---: | :---: | :---: |
+| HR, education, travel, transportation & marketplaces | Mentoring, code review & technical direction | Up to 30% reduction through optimization | Azure DevOps CI/CD automation |
 
-## Technical focus
+### About me
 
-| Area | Technologies & practices |
+I'm a **Senior Flutter Engineer & Tech Lead** based in Cairo, Egypt, with **6+ years of mobile engineering experience** and contributions to products serving **7,000+ users collectively**.
+
+I work across the full application lifecycle — architecture, implementation, API integration, performance, releases, and engineering leadership. I care about **maintainable systems, dependable delivery, and measurable results**.
+
+### Areas of expertise
+
+| | |
 | --- | --- |
-| **Mobile** | Flutter, Dart, Android, iOS, responsive and adaptive UI |
-| **Architecture** | Clean Architecture, MVVM, modular design, repository pattern, SOLID, dependency injection |
-| **State management** | Bloc / Cubit, Provider, GetX |
-| **APIs & backend** | REST APIs, Dio, WebSockets, ASP.NET Core, C#, SQL Server |
-| **Data & services** | SQLite, Hive, secure storage, Firebase Authentication, FCM, Crashlytics |
-| **Delivery** | Azure DevOps, CI/CD, Fastlane, Firebase App Distribution, Shorebird, App Store & Google Play releases |
-| **Engineering leadership** | Technical decisions, reviews, mentoring, performance tuning, production troubleshooting |
+| **Flutter engineering** | Flutter, Dart, adaptive UI, iOS & Android delivery |
+| **Architecture** | Clean Architecture, MVVM, modular design, SOLID, dependency injection |
+| **State & data** | Bloc/Cubit, Provider, GetX, SQLite, Hive, secure storage |
+| **Integrations** | REST APIs, Dio, WebSockets, Firebase, payments, in-app purchases |
+| **Release engineering** | Azure DevOps, CI/CD, Fastlane, Firebase App Distribution, Shorebird |
+| **Beyond mobile** | ASP.NET Core, C#, SQL Server, technical leadership & code reviews |
 
-## Selected production projects
+### Selected production work
 
-These are **commercial applications**, not open-source repositories. Descriptions reflect my contributions; proprietary source code is not publicly shared.
+> These are **commercial products**. The links below lead to project presentations, not claims of open-source code availability.
 
-| Project | Domain | My contribution |
-| --- | --- | --- |
-| **Circle HR** | HR management | Architected mobile workflows for employee requests, approvals, and role-based access; 500+ users. |
-| **Edu-Gamer** | Gamified e-learning | Interactive educational experiences, Rive animations, and in-app purchases; 200+ users. |
-| **Domazone** | Marketplace | Buying and selling workflows, secure payment integration, and mobile releases; 5,000+ users. |
-| **Mozakrety** | E-learning | Video lessons, assessments, subscriptions, and video delivery optimization. |
-| **OGSET** | E-exams | Timed assessments, randomized questions, and answer tracking. |
-| **Zh-Transportations** | Transportation | Scheduling, route management, and booking workflows; 1,000+ users. |
+| Product | What I worked on |
+| --- | --- |
+| **Circle HR** · HR management | Mobile architecture, employee requests, approvals & role-based workflows · **500+ users** |
+| **Edu-Gamer** · Gamified learning | Interactive learning, Rive animations & in-app purchases · **200+ users** |
+| **Domazone** · Marketplace | Buying/selling workflows, secure payments & store releases · **5,000+ users** |
+| **Mozakrety** · E-learning | Video learning, assessments, subscriptions & playback optimization |
+| **OGSET** · Assessment | Timed exams, randomized questions & answer tracking |
+| **Zh-Transportations** · Transportation | Route management, scheduling & booking workflows · **1,000+ users** |
 
-**Screenshots, product details, and additional work:** [Explore my portfolio →](https://ahmedabdelmohsen.vercel.app/)
+**Explore screenshots, demonstrations, and project details → [Selected portfolio projects](https://ahmedabdelmohsen.vercel.app/#projects)**
 
-## Professional experience
+### Experience
 
-**Mashura Consultants**  
-- **Flutter Tech Lead** · Jan 2025 – Present — Lead 5 Flutter developers, guide technical decisions, and remain hands-on with Flutter development.
-- **Senior Flutter Engineer** · Jan 2023 – Dec 2024 — Delivered mobile applications, improved stability, automated releases, and contributed to ASP.NET Core backend services.
-- **Mid-Level Flutter Developer** · Apr 2021 – Dec 2022 — Developed and maintained production Flutter applications and API integrations.
+**Mashura Consultants**
 
-Earlier experience includes iOS development training at the **Information Technology Institute (ITI)** and teaching Android development.
+- **Flutter Tech Lead** · Jan 2025 – Present — Lead and mentor five Flutter developers, define mobile engineering practices, and remain hands-on.
+- **Senior Flutter Engineer** · Jan 2023 – Dec 2024 — Delivered production applications, improved reliability, and automated delivery pipelines.
+- **Mid-Level Flutter Developer** · Apr 2021 – Dec 2022 — Built and maintained Flutter applications and API integrations.
 
-## How I work
+Earlier: iOS training at **Information Technology Institute (ITI)** and Android development training for students.
 
-I value clear architecture boundaries, pragmatic engineering decisions, readable code, reproducible builds, and measurable improvements. I aim to make applications easier to maintain **and** teams more effective at delivering them.
+### Engineering principles
 
-## Let's connect
+**Simple boundaries. Tested behavior. Observable failures. Repeatable delivery.**
 
-I'm open to conversations about **Senior Flutter Engineering**, **Flutter Tech Leadership**, mobile architecture, and remote collaboration.
+I favor pragmatic architectural decisions over unnecessary abstraction, with attention to readable code, error handling, performance, and long-term ownership.
 
-[Portfolio](https://ahmedabdelmohsen.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmedmohamedabdelmohsen/) · [Email](mailto:ahmedm.abdalmohsen@gmail.com)
+---
+
+<div align="center">
+  <b>Let's build mobile software that lasts.</b><br /><br />
+  Open to senior engineering, technical leadership, architecture consulting, and international remote collaboration.<br /><br />
+  <a href="https://ahmedabdelmohsen.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/ahmedmohamedabdelmohsen/">LinkedIn</a> · <a href="mailto:ahmedm.abdalmohsen@gmail.com">Contact</a>
+</div>
